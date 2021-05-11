@@ -8,4 +8,5 @@ This is a rewritten version of Dunko vRP and is still in progress.
 
 # Core Leads 
 
-- Core Lead of Project: JamesUK#6793
+- Core Lead of Project: [JamesUK#6793](https://github.com/JamesEU)
+
